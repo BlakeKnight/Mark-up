@@ -137,12 +137,12 @@ ul.sidebar {
   display: inline-block;
 }
 
-#headings {
+.headings {
   margin-top: 50px;
   font-size: 20px;
   margin-bottom: -10px;
   color: blue;
-  font-width: bold;
+  font-weight: bold;
   display: inline-block;
 }
 
@@ -161,7 +161,7 @@ ul.sidebar {
 
 }
 
-#lion {
+.lion {
   width: 500px;
   margin-top: 30px;
   display: inline-block;
