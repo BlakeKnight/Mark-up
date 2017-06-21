@@ -1,0 +1,168 @@
+
+
+/* Starts Header */
+
+
+#google{
+  width: 8em;
+  margin-left: 2em;
+  margin-top: 1em;
+  float: left;
+}
+
+input[type=text] {
+    margin-left: 5em;
+    margin-top: 1em;
+    width: 35em;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    float: left;
+    background-image: url('https://www.symbolab.com/public/img/icon-search-grey.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#boxed_number {
+    width: 35px;
+    height: 20px;
+    border: 1px solid #D5492E ;
+    float: left;
+    border-radius: 3px;
+    color: white;
+    background: #D5492E;
+    text-align: center;
+    padding-top: 2px;
+    margin-top: 23px;
+    margin-left: 5px;
+}
+
+#kendrick_lamar {
+  float: left;
+  margin: 27px;
+}
+
+#grid_icon {
+  width: 75px;
+}
+
+#div_plus {
+  float: right;
+}
+
+#google_plus {
+  width: 75px;
+}
+
+#clear {
+  height:0;
+  line-height:0;
+  display:block;
+}
+
+#header {
+  overflow: auto;
+	width: 100%;
+  border-bottom: 1px solid #EFF0F5;
+}
+
+/* Starts Content */
+
+#content {
+
+}
+
+/* Starts Sidebar*/
+
+#sidebar {
+  float: left;
+  width: 200px;
+  font-family: 'Lato';
+  background: #2D3236;
+  padding-top: 30px;
+  font-weight: 350;
+  font-weight: bold;
+  color: #69737E;
+}
+
+#sidebar a {
+  text-decoration: none;
+  color: #69737E;
+}
+
+#sidebar p {
+  font-weight: 350;
+  color: #69737E;
+  font-size: 12px;
+}
+
+ul.sidebar {
+    list-style-type: none;
+  margin: 0 0 60px 0;
+}
+
+#bottom_of_sidebar {
+  margin-top: 580px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 12px;
+}
+
+#bottom_color {
+  background: red;
+  border: 1px solid red;
+  height: 3px;
+}
+
+/* Starts Web Content (Still in Content) */
+
+#the_web{
+ float: left;
+ width: 500px;
+ font-family: 'Lato';
+ font-weight: bold;
+ padding-left: 50px;
+ padding-top: 30px;
+ font-weight: 300;
+ display: inline-block;
+}
+
+#the_web h3 {
+  color: blue;
+  display: inline-block;
+}
+
+#headings {
+  margin-top: 50px;
+  font-size: 20px;
+  margin-bottom: -10px;
+  color: blue;
+  font-width: bold;
+  display: inline-block;
+}
+
+/* Starts Images (Still in Content)*/
+
+#the_images_maps{
+ float: right;
+ width: 500px;
+ font-family: 'Lato';
+ /*padding-left: 50px;*/
+ padding-top: 30px;
+ font-weight: 300;
+ display: inline-block;
+ width: 40%;
+
+
+}
+
+#lion {
+  width: 500px;
+  margin-top: 30px;
+  display: inline-block;
+}
